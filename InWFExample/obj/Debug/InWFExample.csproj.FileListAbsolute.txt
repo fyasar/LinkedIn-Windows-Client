@@ -1,0 +1,10 @@
+C:\InWFExample\InWFExample\bin\Debug\InWFExample.exe
+C:\InWFExample\InWFExample\bin\Debug\InWFExample.pdb
+C:\InWFExample\InWFExample\obj\Debug\ResolveAssemblyReference.cache
+C:\InWFExample\InWFExample\obj\Debug\InWFExample.Properties.Resources.resources
+C:\InWFExample\InWFExample\obj\Debug\InWFExample.csproj.GenerateResource.Cache
+C:\InWFExample\InWFExample\obj\Debug\InWFExample.exe
+C:\InWFExample\InWFExample\obj\Debug\InWFExample.pdb
+C:\InWFExample\InWFExample\bin\Debug\InWFExample.exe.config
+C:\InWFExample\InWFExample\obj\Debug\InWFExample.MainForm.resources
+C:\InWFExample\InWFExample\obj\Debug\InWFExample.Authorize.resources
